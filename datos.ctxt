@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=datos
+comment0.text=\ import\ java.util.*\ permite\ cargar\ varios\ directorios\ ademas\ del\ de\ escanear\r\n\ \r\n\ \r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
